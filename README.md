@@ -1,7 +1,7 @@
 # Table of contents
 - [General Description](General-Information)
 - [Folder Description](Navigating-the-Folders)
-- [Execution Information](Execution-Information
+- [Execution Information](Execution-Information)
 - [The Team](The-Team)
 
 # General-Information
