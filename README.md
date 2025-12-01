@@ -1,8 +1,8 @@
 # Table of contents
-- [General Description](General-Information)
-- [Folder Description](Navigating-the-Folders)
-- [Execution Information](Execution-Information)
-- [The Team](The-Team)
+- [General Description](#General-Information)
+- [Folder Description](#Navigating-the-Folders)
+- [Execution Information](#Execution-Information)
+- [The Team](#The-Team)
 
 # General-Information
 This repository contains the final results of efforts made to complete the final project of the class **EEL5718**, Computer Communications, in the **Fall 2025 - 2026 EDGE semester**. It contains the combined efforts of all memebers, Ben, Devin, and Blake, to benchmard different network topologies using different performance metrics and different communication protocols. 
